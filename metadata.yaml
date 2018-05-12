@@ -1,0 +1,55 @@
+_repo: Snowdrop-and-Other-Tales_37381
+_version: 0.1.0
+alternative_title: Snowdrop and Other Tales
+contributor:
+  illustrator:
+    agent_name: Rackham, Arthur
+    birthdate: 1867
+    deathdate: 1939
+    gutenberg_agent_id: '6335'
+    url: http://www.gutenberg.org/2009/agents/6335
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Rackham
+covers:
+- cover_type: archival
+  image_path: 37381-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Grimm, Jacob
+    alias: Grimm, Jacob Ludwig Carl
+    birthdate: 1785
+    deathdate: 1863
+    gutenberg_agent_id: '971'
+    url: http://www.gutenberg.org/2009/agents/971
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Grimm
+  - agent_name: Grimm, Wilhelm
+    alias: Grimm, Wilhelm Carl
+    birthdate: 1786
+    deathdate: 1859
+    gutenberg_agent_id: '972'
+    url: http://www.gutenberg.org/2009/agents/972
+    wikipedia: http://en.wikipedia.org/wiki/Wilhelm_Grimm
+description: ''
+gutenberg_issued: '2011-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37381'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Fairy tales'
+- !lcsh 'Children''s stories'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+tableOfContents: Snowdrop -- The pink -- Briar rose -- The Jew among the thorns --
+  Ashenputtel -- The white snake -- The wolf and the seven kids -- The queen bee --
+  The elves and the shoemaker -- The wolf and the man -- The turnip -- Clever Hans
+  -- The three languages -- The fox and the cat -- The four clever brothers -- The
+  lady and the lion -- The fox and the horse -- The blue light -- The goosegirl --
+  The golden goose -- The water of life -- Clever Grethel -- The King of the Golden
+  Mountain -- Doctor Know-all -- The seven ravens -- The marriage of Mrs. Reynard
+  -- The salad -- The youth who could not shudder -- King Thrushbeard -- Iron Hans.
+title: Snowdrop & Other Tales
+url: http://www.gutenberg.org/ebooks/37381
